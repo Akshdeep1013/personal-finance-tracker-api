@@ -1,2 +1,2 @@
 # personal-finance-tracker-api
-Parse web server logs and generate reports.
+REST API for tracking expenses and income
